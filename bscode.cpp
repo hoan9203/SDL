@@ -15,7 +15,6 @@ LTexture::LTexture()
 	mHeight = 0;
 }
 
-
 bool LTexture::loadFromFile( std::string path )
 {
 
